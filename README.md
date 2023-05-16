@@ -41,9 +41,9 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="#">HTML</a></li>
-    <li><a href="#">CSS</a></li>
-    <li><a href="#">JavaScript</a></li>
+    <li><HTML</a></li>
+    <li>CSS</a></li>
+    <li>JavaScript</a></li>
 
   </ul>
 </details>
