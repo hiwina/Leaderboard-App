@@ -32,7 +32,7 @@
 
 # 📖 [Leaderboard] <a name="about-project"></a>
 
-**[Leaderboard]** is a website that allows users to add their score. It also displays list of scores submited by several players.
+**Leaderboard** is a website that allows users to add their score. It also displays list of scores submited by several players.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,9 +51,9 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[DOM manipulation]**
-- **[ES6 syntax]**
-- **[Modules]**
+- **DOM manipulation**
+- **ES6 syntax**
+- **Modules**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,7 +78,6 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd my-folder
   git clone git@github.com:hiwina/Leaderboard-App.git
 ```
 
@@ -87,7 +86,6 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd my-project
   npm install
 ```
 
@@ -103,14 +101,12 @@ To run the project, execute the following command:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
 
 
 👤 **Hiwot Bayissa**
 
 - GitHub: [@hiwina](https://github.com/hiwina)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/lhiwot)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,7 +114,7 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[ send and receive data from API]**
+- [ ] **send and receive data from API**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,8 +132,6 @@ Feel free to check the [issues page](https://github.com/hiwina/Leaderboard-App/i
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project please give a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -149,8 +143,6 @@ If you like this project please give a ⭐️
 I would like to thank Microverse for facilitating this course.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
 
 <!-- LICENSE -->
 
